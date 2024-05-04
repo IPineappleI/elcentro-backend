@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangoSchool.Controllers", "TangoSchool.Controllers\TangoSchool.Controllers.csproj", "{DADA90C2-7780-4326-9629-7549C82F2562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangoSchool.DataAccess", "TangoSchool.DataAccess\TangoSchool.DataAccess.csproj", "{0DC769BA-6DCA-426E-95BD-297569AE2C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangoSchool.ApplicationServices", "TangoSchool.ApplicationServices\TangoSchool.ApplicationServices.csproj", "{B12104AB-849F-403C-87A4-CDEADAB8B305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADA90C2-7780-4326-9629-7549C82F2562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADA90C2-7780-4326-9629-7549C82F2562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADA90C2-7780-4326-9629-7549C82F2562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADA90C2-7780-4326-9629-7549C82F2562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC769BA-6DCA-426E-95BD-297569AE2C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC769BA-6DCA-426E-95BD-297569AE2C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC769BA-6DCA-426E-95BD-297569AE2C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC769BA-6DCA-426E-95BD-297569AE2C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B12104AB-849F-403C-87A4-CDEADAB8B305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12104AB-849F-403C-87A4-CDEADAB8B305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12104AB-849F-403C-87A4-CDEADAB8B305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12104AB-849F-403C-87A4-CDEADAB8B305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

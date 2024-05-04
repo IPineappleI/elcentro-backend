@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  database:
+    image: postgres
+    environment:
+        POSTGRES_DB: "TangoSchoolDb"
+        POSTGRES_USER: "postgres"
+        POSTGRES_PASSWORD: "jBd_7Nwm0l"
+    ports:
+        - "7000:5432"
