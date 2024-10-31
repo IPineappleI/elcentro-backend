@@ -9,3 +9,9 @@ services:
         POSTGRES_PASSWORD: "jBd_7Nwm0l"
     ports:
         - "7000:5432"
+  api:
+    build: .
+    ports:
+      - "7001:80"
+    depends_on:
+      - database
